@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "robmorgan/phinx": "^0.16.1"
+    },
+    "require": {
+        "odan/phinx-migrations-generator": "^6.2"
+    }
+}
